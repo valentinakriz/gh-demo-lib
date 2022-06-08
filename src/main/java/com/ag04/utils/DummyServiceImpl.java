@@ -1,5 +1,10 @@
 package com.ag04.utils;
 
+/**
+ *
+ * @author valentinakriz
+ *
+ */
 public class DummyServiceImpl implements DummyService {
 
     @Override
